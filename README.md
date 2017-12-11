@@ -1,4 +1,8 @@
 # SilverStripe Facebook Instant Articles Feed
+[![Latest Stable Version](https://poser.pugx.org/fractas/fb-instant-articles/v/stable)](https://packagist.org/packages/fractas/fb-instant-articles)
+[![Latest Unstable Version](https://poser.pugx.org/fractas/fb-instant-articles/v/unstable)](https://packagist.org/packages/fractas/fb-instant-articles)
+[![Total Downloads](https://poser.pugx.org/fractas/fb-instant-articles/downloads)](https://packagist.org/packages/fractas/fb-instant-articles)
+[![License](https://poser.pugx.org/fractas/fb-instant-articles/license)](https://packagist.org/packages/fractas/fb-instant-articles)
 
 ## Overview
 SilverStripe module for Facebook Instant Articles RSS Feed.
