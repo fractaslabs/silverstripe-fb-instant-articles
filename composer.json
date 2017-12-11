@@ -1,0 +1,27 @@
+{
+    "name": "fractas/fb-instant-articles",
+    "description": "Facebook Instant Articles RSS Feed for Silverstripe",
+    "type": "silverstripe-module",
+    "homepage": "https://github.com/fractaslabs/silverstripe-fb-instant-articles",
+    "keywords": ["silverstripe", "CMS", "fb", "facebook", "instant articles", "publishing", "social"],
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/fractaslabs/silverstripe-fb-instant-articles/issues"
+    },
+    "authors": [{
+        "name": "Milan Jelicanin",
+        "email": "milan.jelicanin@fractas.com",
+        "homepage": "https://www.fractas.com/"
+    }, {
+        "name": "Petar Simic",
+        "email": "petar.simic@fractas.com",
+        "homepage": "https://www.fractas.com/"
+    }],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "facebook/facebook-instant-articles-sdk-php": "^1.6",
+        "silverstripe/framework": "~3.0",
+        "silverstripe/queuedjobs": "^2.8"
+    }
+}

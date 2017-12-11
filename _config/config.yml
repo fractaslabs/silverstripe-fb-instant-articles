@@ -1,0 +1,11 @@
+---
+Name: fbinstantarticlesconfig
+Before: 'mysite/*'
+After: ['framework/*', 'cms/*']
+---
+SiteTree:
+  extensions:
+    - FbInstantArticlesHelper
+
+FbInstantArticlesHelper:
+  cache_key: 'my_fb_ia_feed'

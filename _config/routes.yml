@@ -1,0 +1,7 @@
+---
+Name: fbinstantarticlesroutes
+After: framework/routes#coreroutes
+---
+Director:
+  rules:
+    'fbiafeed': 'FbInstantArticles_Controller'
